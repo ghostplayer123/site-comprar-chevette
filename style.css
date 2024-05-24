@@ -1,0 +1,25 @@
+li{
+    list-style-type: none;
+    margin: 30px 30px 30px 30px;
+    display: grid;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    
+}
+
+
+img{
+    width: 350px;
+    margin: 30px 30px 30px 30px;
+}
+
+body{
+    background:linear-gradient(darkblue,lightblue) ;
+}
+
+ div{
+    margin-top: 107px;
+} 
